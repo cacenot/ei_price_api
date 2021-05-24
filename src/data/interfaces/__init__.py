@@ -1,0 +1,2 @@
+from .product_repository_interface import ProductRepositoryInterface
+from .store_repository_interface import StoreRepositoryInterface
